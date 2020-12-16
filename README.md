@@ -14,6 +14,9 @@ $ git clone https://github.com/annazc-ann/wa-automove
 $ cd wa-automove/
 $ chmod +x *
 $ sh mkdir.sh
+```
+and then run the python script by typing:
+```bash
 $ python automove.py
 ```
 <p>It will move the files inside your WhatsApp folder to the specified folder (according to the file extension) created with <code>mkdir.sh</code>.
