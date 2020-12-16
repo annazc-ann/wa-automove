@@ -24,8 +24,7 @@ $ python automove.py
  the Termux app is closed. </p>
 <h3>🚨 ATTENTION 🚨</h3>
 Running this script means that you will not be able to access 
-your WhatsApp files inside the app.<br>
-Otherwise, you can find and access your moved files inside 
+your WhatsApp files inside the app. Otherwise, you can find and access your moved files inside 
 <code>/storage/emulated/0/WA-Media/</code>
 <p>was inspired by:
 https://youtu.be/JNl2krTKf-s
