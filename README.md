@@ -25,3 +25,6 @@ Running this script means that you won't be able to access
 your WhatsApp files inside the app.<br>
 Otherwise, you can find and access your moved files inside 
 <code>/storage/emulated/0/WA-Media/</code>
+<p>This project was inspired by:
+https://youtu.be/JNl2krTKf-s
+</p>
