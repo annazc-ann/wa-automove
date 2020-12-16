@@ -15,7 +15,7 @@ clone this repository:
 ```bash
 $ git clone https://github.com/annazc-ann/wa-automove
 ```
-and:
+next >>
 ```bash
 $ cd wa-automove/
 $ chmod +x *
