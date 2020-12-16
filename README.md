@@ -9,8 +9,14 @@
 Open Termux app and then type:
 ```bash
 $ pkg update && pkg upgrade -y
-$ pkg install git python 
+$ pkg install git python
+```
+clone this repository:
+```bash
 $ git clone https://github.com/annazc-ann/wa-automove
+```
+and:
+```bash
 $ cd wa-automove/
 $ chmod +x *
 $ sh mkdir.sh
