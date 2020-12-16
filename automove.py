@@ -74,6 +74,8 @@ automove()
 os.chdir(path+wdirs[4])
 automove()
 
+print("\nIt's done ☑\n") 
+
 
 
 
