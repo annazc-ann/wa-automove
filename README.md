@@ -24,7 +24,7 @@ $ python automove.py
  the Termux app is closed. </p>
 
 ### Tips
-Please disable media automatic download for.... dunno. I think it is just better :)
+Please disable WhatsApp media automatic download for.... dunno. I think it is just better :) it's for your sake
 
 <h3>🚨 ATTENTION 🚨</h3>
 Running this script means that you will not be able to access 
