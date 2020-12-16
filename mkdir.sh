@@ -8,5 +8,5 @@ mkdir /sdcard/WA-Media/Others
 mkdir .bak
 mv mkdir.sh .bak
 echo 
-echo -e "\e[92mOK!\e[0m"
+echo OK!
 echo
