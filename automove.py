@@ -8,18 +8,18 @@ Author: Ann
 =====================================
 """
 
-# import the require modules to interact with files and dirs
+# import the required modules to interact with files and dirs
 import os, shutil 
 
 # WhatsApp path directories
 path = "/sdcard/WhatsApp/Media/"
 wdirs = ["WhatsApp Video","WhatsApp Images","WhatsApp Audio","WhatsApp Documents","WhatsApp Animated Gifs"]
 
-# Destination directories for moved files
+# destination directories for moved files
 dest = "/sdcard/WA-Media/"
 dirs = ["WA-Videos","WA-Images","WA-Audios","WA-Documents","WA-Apks","Others"]
 
-# Declaring arrays of files' formats 
+# declaring arrays of files' formats 
 # you can add your desired file format
 vid_formats = ["mp4","3gp","mkv","avi"]
 img_formats = ["jpg","png","jpeg","gif"]
@@ -59,10 +59,10 @@ def automove():
          else:
             print("Media not found")
 
-# Make it possible to run on background
+# make it possible to run on background
 while True:
 
-  # Changing between all dirs inside WhatsApp path
+  # changing between all dirs inside WhatsApp path
    os.chdir(path+wdirs[0])
    automove()
 
