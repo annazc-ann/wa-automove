@@ -60,23 +60,19 @@ def automove():
             print("Media not found")
 
 # make it possible to run on background
-while True:
+#while True:
 
-  # changing between all dirs inside WhatsApp path
-   os.chdir(path+wdirs[0])
-   automove()
-
-   os.chdir(path+wdirs[1])
-   automove()
-
-   os.chdir(path+wdirs[2])
-   automove()
-
-   os.chdir(path+wdirs[3])
-   automove()
-
-   os.chdir(path+wdirs[4])
-   automove()
+   # changing between all dirs inside WhatsApp path
+os.chdir(path+wdirs[0])
+automove()
+os.chdir(path+wdirs[1])
+automove()
+os.chdir(path+wdirs[2])
+automove()
+os.chdir(path+wdirs[3])
+automove()
+os.chdir(path+wdirs[4])
+automove()
 
 
 
