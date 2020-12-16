@@ -22,6 +22,10 @@ $ python automove.py
 <p>It will move the files inside your WhatsApp folder to the specified folder (according to the file extension) created by <code>$ sh mkdir.sh</code>.
 <br>Once it starts, it will always running in the background until you stop it by hit <code>ctrl+c</code> or
  the Termux app is closed. </p>
+
+### Tips
+Please disable media automatic download for.... dunno. I think it is just better :)
+
 <h3>🚨 ATTENTION 🚨</h3>
 Running this script means that you will not be able to access 
 your WhatsApp files inside the app. Otherwise, you can find and access your moved files inside 
