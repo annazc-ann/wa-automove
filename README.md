@@ -24,7 +24,7 @@ and then run the python script by typing:
 ```bash
 $ python automove.py
 ```
-<p>It will move the files inside your WhatsApp folder to the specified folder (according to the file extension) generated automatically by the script.</p>
+<p>It will move the files inside your WhatsApp folder to the specified folders (according to the file extension) generated automatically by the script.</p>
 <h3>🚨 ATTENTION 🚨</h3>
 Running this script means that you will not be able to access 
 your WhatsApp files inside the app. Otherwise, you can find and access your moved files inside 
