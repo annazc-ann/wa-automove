@@ -14,11 +14,7 @@ $ pkg install git python
 clone this repository:
 ```bash
 $ git clone https://github.com/annazc-ann/wa-automove
-```
-next >>
-```bash
 $ cd wa-automove/
-$ chmod +x *
 ```
 and then run the python script by typing:
 ```bash
