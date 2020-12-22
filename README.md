@@ -2,7 +2,7 @@
 <p>Automatically sorts and moves files inside WhatsApp folders with Termux.</>
 
 ### Requirements
-1. [Termux app](https://play.google.com/store/apps/details?id=com.termux) with storage access permission
+1. [Termux](https://play.google.com/store/apps/details?id=com.termux) app with storage access permission
 2. Internet connection (installing python) 
 
 ### Usage
