@@ -13,7 +13,7 @@ $ pkg install git python
 ```
 clone this repository:
 ```bash
-$ git clone https://github.com/annazc-ann/wa-automove
+$ git clone https://github.com/annzc/wa-automove
 $ cd wa-automove/
 ```
 and then run the python script by typing:
